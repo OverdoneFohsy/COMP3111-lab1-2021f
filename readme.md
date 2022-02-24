@@ -1,2 +1,3 @@
-shawn01085794
-![Git History](C:\Users\syfoh\eclipse-workspace\Lab1\Desktop\Screenshot.png)
+Name: Foh Shawn Young
+ID: 01085794
+![Git History](Desktop/Screenshot.png)
